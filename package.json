@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "start": "nodemon lib/app.js",
-    "generate": "graphql-codegen"
+    "generate": "graphql-codegen --config \"configs/codegen.yml\""
   },
   "dependencies": {
     "@apollo/client": "^3.4.10",

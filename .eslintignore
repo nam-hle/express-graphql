@@ -1,6 +1,8 @@
 node_modules
 lib
 public
-src/schema/types.ts
 
-**/*.js
+src/**/*.js
+src/schema/types.generated.ts
+
+express-graphql.iml

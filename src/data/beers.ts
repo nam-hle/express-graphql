@@ -1,4 +1,4 @@
-import { Beer } from "../schema/types";
+import { Beer } from "../schema/types.generated";
 
 export const beersData: Beer[] = [
   {

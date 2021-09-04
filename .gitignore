@@ -4,3 +4,4 @@ lib
 .env
 
 tsconfig.tsbuildinfo
+src/schema/types.generated.ts

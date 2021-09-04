@@ -2,7 +2,7 @@ import bcrypt from "bcrypt";
 import jsonwebtoken from "jsonwebtoken";
 
 import { beersData } from "../data/beers";
-import { Resolvers, User } from "../schema/types";
+import { Resolvers, User } from "../schema/types.generated";
 
 const { User: UserModel } = require("../models");
 
