@@ -2,6 +2,7 @@ node_modules
 lib
 .idea
 .env
+*.iml
 
 tsconfig.tsbuildinfo
-src/schema/types.generated.ts
+src/schema/schema.graphql
